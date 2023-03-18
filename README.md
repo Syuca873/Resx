@@ -1,0 +1,2 @@
+# Resx
+Visual Code Regipotry
